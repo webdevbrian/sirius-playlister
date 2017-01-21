@@ -5,9 +5,11 @@ An angular 2 port and rewrite based off of ["sirius-playlists"](https://github.c
 
 ✓ Start new repository from the ground up for a full rewrite
 
-☐ Angular 2
+✓ Boilerplate for Gulp / Angular 2 / npm with browsersync for dev and production building & SASS / Typescript
 
 ☐ Bootstrap 4
+
+☐ First version of a UI
 
 ☐ Might migrate away from MongoDB and go to couchDB
 
