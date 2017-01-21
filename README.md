@@ -1,13 +1,30 @@
 # sirius-playlister
 An angular 2 port and rewrite based off of ["sirius-playlists"](https://github.com/alaycock/sirius-playlists) by [alaycock](https://github.com/alaycock). 🎉
 
+To get up and going you will need typescript and npm installed
+
+1. Clone the repo:
+> git clone https://github.com/mschwarzmueller/angular-2-beta-boilerplate.git
+
+2. Install npm packages:
+> npm Install
+
+3. Start the server which runs browsersync (auto refresh) and the gulp asset watcher for development
+> npm Start
+
+4. Eat cake.
+
+***
+
 ## Plans for this currently include (and are subject to change at any time):
 
 ✓ Start new repository from the ground up for a full rewrite
 
-☐ Angular 2
+✓ Boilerplate for Gulp / Angular 2 / npm with browsersync for dev and production building & SASS / Typescript
 
 ☐ Bootstrap 4
+
+☐ First version of a UI
 
 ☐ Might migrate away from MongoDB and go to couchDB
 
