@@ -4,7 +4,7 @@ An angular 2 port and rewrite based off of ["sirius-playlists"](https://github.c
 To get up and going you will need typescript and npm installed
 
 1. Clone the repo:
-> git clone https://github.com/mschwarzmueller/angular-2-beta-boilerplate.git
+> git clone https://github.com/webdevbrian/sirius-playlister.git
 
 2. Install npm packages:
 > npm Install
