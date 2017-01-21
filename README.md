@@ -22,7 +22,7 @@ To get up and going you will need typescript and npm installed
 
 ✓ Boilerplate for Gulp / Angular 2 / npm with browsersync for dev and production building & SASS / Typescript
 
-☐ Bootstrap 4
+✓ Bootstrap 4
 
 ☐ First version of a UI
 
